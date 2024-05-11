@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import {Link} from 'react-router-dom';
 function Header() {
   return (
     <div className="bg-slate-200 p-6 shadow-lg">
