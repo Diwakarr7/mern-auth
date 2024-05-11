@@ -7,7 +7,7 @@ function Header() {
         <Link to="/">
           <h1 className="font-bold">Auth App</h1>
         </Link>
-        <ul className="flex gap-6 ">
+        <ul className="flex gap-6">
           <Link to="/">
             <li>Home</li>
           </Link>
